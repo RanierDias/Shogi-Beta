@@ -12,7 +12,7 @@
 
 ## Como Jogar
 
-1. **Baixe e execute o jogo**.
+1. Baixe clicando em [Tags](https://github.com/RanierDias/Shogi-Beta/tags) ao lado de **Branch** ou na barra lateral na sessão **Releases** que esta abaixo da sessão **About**, em seguida clique em Downloads e escolha o sistema operacional, Windows(.exe) ou Linux(.86x_64).
 2. Escolha seu modo preferido (clássico, duelo daimyos ou domínio).
 3. Nos modos duelo daimyos e domínio, se divirta com seu amigo descrobindo as peças e regras de uma forma natural e simples.
 4. Se já conhecer as regras, mergulhe diretamente no modo clássico e teste suas habilidades e conhecimento!
